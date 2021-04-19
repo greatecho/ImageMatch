@@ -1,7 +1,14 @@
 # imagess
 Find template image in image
 
-Approach - Finding the template image in source image.
+Goal - Finding the template image in source image.
+Approach - 
+Look into which libraries handle image processing in python.
+Choose the compatible library.
+How does the selected library handle images.
+Pros/cons.
+
+
 
 Used - Python 3.8/ Open CV / 4.5.1
 IDe- Pycharm
