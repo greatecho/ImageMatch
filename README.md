@@ -1,11 +1,10 @@
 # imagess
-Find template image in image
+Goal - Find template image in image
 
-Goal - Finding the template image in source image.
 Approach - 
-Look into which libraries handle image processing in python.
-Choose the compatible library.
-How does the selected library handle images.
+Look into which libraries handle image processing in python, 
+Choose the compatible library,
+How does the selected library handle images,
 Pros/cons.
 
 
