@@ -3,9 +3,7 @@ Goal - Find template image in image
 
 Approach - 
 Look into which libraries handle image processing in python, 
-Choose the compatible library,
-How does the selected library handle images,
-Pros/cons.
+Choose the compatible library, How does the selected library handle images, refer documentation.
 
 
 
